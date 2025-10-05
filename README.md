@@ -2,7 +2,7 @@ Hi 👋
 
 I'm an image analysis engineer working as part of the [EPFL Center for Imaging](https://imaging.epfl.ch/) in Lausanne, Switzerland 🇨🇭.
 
-I develop 🔭 open-source software, 🎓 educational content, and 🧬 scientific image analysis solutions for R&D, academic, and industrial use cases.
+Passionate about developing 🔭 open-source software, 🎓 educational content, and 🧬 scientific image analysis solutions for R&D, academic, and industrial use cases.
 
 <!-- Contact me at mallory.wittwer@epfl.ch or via [Linkedin](https://www.linkedin.com/in/m-wittwer/) if you're interested in collaborating! -->
 
