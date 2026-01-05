@@ -4,8 +4,6 @@ I'm an image analysis engineer working as part of the [EPFL Center for Imaging](
 
 Passionate about developing 🔭 open-source software, 🎓 educational content, and 🧬 scientific image analysis solutions for R&D, academic, and industrial use cases.
 
-<!-- Contact me at mallory.wittwer@epfl.ch or via [Linkedin](https://www.linkedin.com/in/m-wittwer/) if you're interested in collaborating! -->
-
 ## ⭐ Selected projects
 
 - [Imaging Server Kit](https://github.com/Imaging-Server-Kit) - A toolkit for integrating image analysis algorithms in [Napari](https://napari.org/) and [QuPath](https://qupath.github.io/) using [FastAPI](https://fastapi.tiangolo.com/).
@@ -16,11 +14,13 @@ Passionate about developing 🔭 open-source software, 🎓 educational content,
 
 Software:
 
-- [napari-orientationpy](https://github.com/EPFL-Center-for-Imaging/napari-orientationpy/tree/master) - 2D and 3D grayscale orientation analysis in Napari.
+- [FeatureScope](https://github.com/MalloryWittwer/featurescope) - Plot image features interactively.
+
+- [napari-orientationpy](https://github.com/EPFL-Center-for-Imaging/napari-orientationpy/tree/master) - Grayscale orientation analysis in Napari.
 - [QuPath Yolo Toolbox](https://gitlab.com/epfl-center-for-imaging/qupath-yolo-toolbox) - Train and use [YOLO](https://github.com/ultralytics) models in QuPath.
-- [JupyterHub Imaging](https://gitlab.com/epfl-center-for-imaging/jupyterhub-imaging) - A deployment of [JupyterHub](https://jupyter.org/hub) bundled with image analysis tools.
-- [Napari Lazy Image Browser](https://gitlab.com/epfl-center-for-imaging/napari-lazy-image-browser) - Interactively browse large [Zarr](https://ngff.openmicroscopy.org/latest/) images in Napari.
-- [Spheriscope](https://github.com/MalloryWittwer/spheriscope) - Visualize image datasets on a spherical latent space. 
+- [JupyterHub Imaging](https://gitlab.com/epfl-center-for-imaging/jupyterhub-imaging) - A [JupyterHub](https://jupyter.org/hub) bundled with image analysis tools.
+- [Napari Lazy Image Browser](https://gitlab.com/epfl-center-for-imaging/napari-lazy-image-browser) - Interactively browse [Zarr](https://ngff.openmicroscopy.org/latest/) images in Napari.
+- [Spheriscope](https://github.com/MalloryWittwer/featurescope/tree/spheriscope) - Visualize image datasets on a spherical latent space. 
 - [napari-magic-wand](https://github.com/EPFL-Center-for-Imaging/napari-magic-wand) - "Magic" tracing tool for Napari.
 
 Education:
