@@ -19,10 +19,10 @@ In the making:
 - [FeatureScope](https://github.com/MalloryWittwer/featurescope) - Plot image features interactively.
 - [QuPath Yolo Toolbox](https://gitlab.com/epfl-center-for-imaging/qupath-yolo-toolbox) - Train and use [YOLO](https://github.com/ultralytics) models in QuPath.
 
-Other projects:
+Other projects I've worked on:
 
-- [JupyterHub Imaging](https://gitlab.com/epfl-center-for-imaging/jupyterhub-imaging) - A [JupyterHub](https://jupyter.org/hub) bundled with image analysis tools.
 - [The Image Analysis Field Guide](https://github.com/EPFL-Center-for-Imaging/image-analysis-field-guide) - Essential toolkit to get started in scientific image analysis ([Jupyter Book](https://search.brave.com/search?q=jupyter+book)).
+- [JupyterHub Imaging](https://gitlab.com/epfl-center-for-imaging/jupyterhub-imaging) - A [JupyterHub](https://jupyter.org/hub) bundled with image analysis tools.
 - [Setting up Python for scientific image analysis](https://epfl-center-for-imaging.github.io/python-setup/) - Short guide.
 - [Image data visualization with Python and Napari](https://epfl-center-for-imaging.github.io/napari-imaging-epfl-2023/README.html) - 2023 Workshop.
 - [nD Image Visualization with Open-Source Tools](https://github.com/EPFL-Center-for-Imaging/ImagingLunch_nD_Image_Visualization) - 2025 Workshop.
