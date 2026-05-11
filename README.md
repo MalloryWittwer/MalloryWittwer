@@ -2,15 +2,14 @@ Hi 👋
 
 I'm an image analysis engineer working as part of the [EPFL Center for Imaging](https://imaging.epfl.ch/) in Lausanne, Switzerland 🇨🇭.
 
-Passionate about developing 🔭 open-source software, 🎓 educational content, and 🧬 scientific image analysis solutions for R&D, academic, and industrial use cases.
-
-## ⭐ Selected projects
+## Selected projects
 
 - [Awesome Scientific Image Analysis](https://github.com/EPFL-Center-for-Imaging/awesome-scientific-image-analysis) - A curated [awesome](https://github.com/sindresorhus/awesome) list of scientific image analysis resources and software tools.
 - [Imaging Server Kit](https://github.com/Imaging-Server-Kit) - A toolkit for integrating image analysis algorithms in [Napari](https://napari.org/) and [QuPath](https://qupath.github.io/) using [FastAPI](https://fastapi.tiangolo.com/).
 - [Introduction to Python for Image Analysis](https://epfl-center-for-imaging.github.io/python-intro-images/lab/index.html?path=python-intro%2FContent.ipynb) - Notebook running in the browser with [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/).
-- [Object Detection with YOLO](https://epfl-center-for-imaging.github.io/yolo-workshop/) - Hands-on Computer Vision on USB microscopes (2025 workshop). 
-- [napari-orientationpy](https://github.com/EPFL-Center-for-Imaging/napari-orientationpy/tree/master) - Grayscale orientation analysis in Napari.
+- [Introduction to Machine Learning for Vision](https://github.com/EPFL-Center-for-Imaging/vision-workshop) - Workshop designed as a live [Marimo](https://epfl-center-for-imaging.github.io/vision-workshop/) notebook.
+- [Object Detection with YOLO](https://epfl-center-for-imaging.github.io/yolo-workshop/) - Hands-on Computer Vision on USB microscopes.
+- [Fine-Tuning Models with the `transformers` Library](https://github.com/EPFL-Center-for-Imaging/workshop-transformers) - Introduction to computer vision with [HuggingFace](https://huggingface.co/docs) libraries.
 
 ### More projects
 
@@ -21,6 +20,7 @@ In the making:
 
 Other projects I've worked on:
 
+- [napari-orientationpy](https://github.com/EPFL-Center-for-Imaging/napari-orientationpy/tree/master) - Grayscale orientation analysis in Napari.
 - [The Image Analysis Field Guide](https://github.com/EPFL-Center-for-Imaging/image-analysis-field-guide) - Essential toolkit to get started in scientific image analysis ([Jupyter Book](https://search.brave.com/search?q=jupyter+book)).
 - [JupyterHub Imaging](https://gitlab.com/epfl-center-for-imaging/jupyterhub-imaging) - A [JupyterHub](https://jupyter.org/hub) bundled with image analysis tools.
 - [Setting up Python for scientific image analysis](https://epfl-center-for-imaging.github.io/python-setup/) - Short guide.
