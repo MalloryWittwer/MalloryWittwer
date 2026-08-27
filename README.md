@@ -11,15 +11,13 @@ I'm an image analysis engineer working as part of the [EPFL Center for Imaging](
 - [Object Detection with YOLO](https://epfl-center-for-imaging.github.io/yolo-workshop/) - Hands-on Computer Vision on USB microscopes.
 - [Fine-Tuning Models with the `transformers` Library](https://github.com/EPFL-Center-for-Imaging/workshop-transformers) - Introduction to computer vision with [HuggingFace](https://huggingface.co/docs) libraries.
 
-### More projects
 
-In the making:
+<details>
+
+<summary>More projects</summary>
 
 - [FeatureScope](https://github.com/MalloryWittwer/featurescope) - Plot image features interactively.
 - [QuPath Yolo Toolbox](https://gitlab.com/epfl-center-for-imaging/qupath-yolo-toolbox) - Train and use [YOLO](https://github.com/ultralytics) models in QuPath.
-
-Other projects I've worked on:
-
 - [napari-orientationpy](https://github.com/EPFL-Center-for-Imaging/napari-orientationpy/tree/master) - Grayscale orientation analysis in Napari.
 - [The Image Analysis Field Guide](https://github.com/EPFL-Center-for-Imaging/image-analysis-field-guide) - Essential toolkit to get started in scientific image analysis ([Jupyter Book](https://search.brave.com/search?q=jupyter+book)).
 - [JupyterHub Imaging](https://gitlab.com/epfl-center-for-imaging/jupyterhub-imaging) - A [JupyterHub](https://jupyter.org/hub) bundled with image analysis tools.
@@ -34,3 +32,5 @@ Other projects I've worked on:
 - [Crystal orientation visualizer](https://mallorywittwer.github.io/interactive-crystallography/) - React.js app.
 - [Iron-Carbon phase diagram](https://mallorywittwer.github.io/FeC-phase-diagram/) - React.js app.
 - [University ranking map](https://mallorywittwer.github.io/university-ranking-map/) - React.js app.
+
+</details>
