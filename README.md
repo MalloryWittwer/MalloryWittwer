@@ -2,15 +2,25 @@ Hi 👋
 
 I'm an image analysis engineer working as part of the [EPFL Center for Imaging](https://imaging.epfl.ch/) in Lausanne, Switzerland 🇨🇭.
 
+> [!IMPORTANT]
+> Help me build [Awesome Scientific Image Analysis](https://github.com/EPFL-Center-for-Imaging/awesome-scientific-image-analysis) - A curated list of scientific image analysis resources and software tools!
+
 ## Selected projects
 
-- [Awesome Scientific Image Analysis](https://github.com/EPFL-Center-for-Imaging/awesome-scientific-image-analysis) - A curated [awesome](https://github.com/sindresorhus/awesome) list of scientific image analysis resources and software tools.
-- [Imaging Server Kit](https://github.com/Imaging-Server-Kit) - A toolkit for integrating image analysis algorithms in [Napari](https://napari.org/) and [QuPath](https://qupath.github.io/) using [FastAPI](https://fastapi.tiangolo.com/).
+You're going to like this if you are into scientific image analysis:
+
+| 🪐 <br> [Imaging Server Kit](https://github.com/Imaging-Server-Kit) <br><br> A toolkit for integrating image analysis algorithms in [Napari](https://napari.org/) and [QuPath](https://qupath.github.io/) using [FastAPI](https://fastapi.tiangolo.com/). | 
+|---|
+
+## Teaching materials
+
+Interactive notebooks I've developed for workshops:
+
 - [Introduction to Python for Image Analysis](https://epfl-center-for-imaging.github.io/python-intro-images/lab/index.html?path=python-intro%2FContent.ipynb) - Notebook running in the browser with [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/).
 - [Introduction to Machine Learning for Vision](https://github.com/EPFL-Center-for-Imaging/vision-workshop) - Workshop designed as a live [Marimo](https://epfl-center-for-imaging.github.io/vision-workshop/) notebook.
 - [Object Detection with YOLO](https://epfl-center-for-imaging.github.io/yolo-workshop/) - Hands-on Computer Vision on USB microscopes.
 - [Fine-Tuning Models with the `transformers` Library](https://github.com/EPFL-Center-for-Imaging/workshop-transformers) - Introduction to computer vision with [HuggingFace](https://huggingface.co/docs) libraries.
-
+- [Segmentation Challenge](https://github.com/EPFL-Center-for-Imaging/segmentation-challenge) - Practice your segmentation skills.
 
 <details>
 
